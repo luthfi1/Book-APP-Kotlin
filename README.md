@@ -4,17 +4,9 @@ The presence of the Book App application makes it easier for users to find books
 
 features contained in it:
 
- Trending
+Trending
+![photo_2021-12-08 14 05 33](https://user-images.githubusercontent.com/68719137/145172097-707c46a7-1327-414a-8cc6-4e75620ae9c0.jpeg)
 
-
-
-😊 List
-
-😊 Search
-
-😊 Library
-
-😊 Mark
 
 
 Kelompok 3:
